@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏空とコントレイル",
+  "base_artist": "ラテルネ",
+  "createdAt": "2025-12-18T07:29:41.209241Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏空とコントレイル (feat. 初音ミク)",
+      "artist": "ラテルネ",
+      "has_synced": false,
+      "path": "select/pl_01_夏空とコントレイル_(feat._初音ミク)_ラテルネ.txt"
+    }
+  ]
+}
